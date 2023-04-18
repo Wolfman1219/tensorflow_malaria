@@ -23,6 +23,4 @@ python malaria.py
 
 The malaria, bunny  and Stanford Online Products datasets were obtained from [tensorflow offical website](https://www.tensorflow.org/datasets/catalog/).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## If you want train with GPU see my [instruction](https://github.com/Wolfman1219/Nvidia-CUDA-Tensorflow-installation)
