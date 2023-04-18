@@ -7,11 +7,7 @@ This repository contains code for transfer learning on three different image cla
 The repository contains the following files:
 
 - `malaria.py`: Python script for training the VGG19 model on a malaria image dataset.
-- `stanford.py`: Python script for training the VGG19 model on the Stanford Online Products dataset.
-- `bunny.py`: Python script for training the VGG19 model on a bunny image dataset.
 - `malaria_core.ipynb`: Jupyter notebook containing code for training and evaluating the malaria classification model.
-- `stanford_core.ipynb`: Jupyter notebook containing code for training and evaluating the Stanford Online Products classification model.
-- `bunny_core.ipynb`: Jupyter notebook containing code for training and evaluating the bunny classification model.
 
 ## Usage
 To install the necessary libraries.
@@ -21,8 +17,6 @@ python -m pip install -r requirements.txt
 To use this code, you will need to have TensorFlow and tensorflow-dataset installed. You can then run the Python scripts for training the models or open the Jupyter notebooks for a more interactive experience.
 
 ```shell
-python bunny.py
-python stanford.py
 python malaria.py
 ```
 ## Acknowledgements
