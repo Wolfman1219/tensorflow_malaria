@@ -1,6 +1,6 @@
 # Transfer Learning for Image Classification
 
-This repository contains code for transfer learning on three different image classification tasks: malaria classification, Stanford Online Products classification, and bunny classification. All three tasks use VGG19 as the base model for transfer learning. The code is implemented in Python and uses TensorFlow Core for training.
+This repository contains code for transfer learning on image malaria classification. All three tasks use VGG19 as the base model for transfer learning. The code is implemented in Python and uses TensorFlow Core for training.
 
 ## Files
 
